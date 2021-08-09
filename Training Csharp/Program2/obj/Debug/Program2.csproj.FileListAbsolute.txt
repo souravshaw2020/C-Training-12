@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Training Csharp\Program2\bin\Debug\Program2.exe.config
+C:\Users\hp\source\repos\Training Csharp\Program2\bin\Debug\Program2.exe
+C:\Users\hp\source\repos\Training Csharp\Program2\bin\Debug\Program2.pdb
+C:\Users\hp\source\repos\Training Csharp\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Training Csharp\Program2\obj\Debug\Program2.exe
+C:\Users\hp\source\repos\Training Csharp\Program2\obj\Debug\Program2.pdb
