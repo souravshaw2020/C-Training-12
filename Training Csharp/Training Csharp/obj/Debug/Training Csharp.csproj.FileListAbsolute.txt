@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Training Csharp\Training Csharp\bin\Debug\Training Csharp.exe.config
+C:\Users\hp\source\repos\Training Csharp\Training Csharp\bin\Debug\Training Csharp.exe
+C:\Users\hp\source\repos\Training Csharp\Training Csharp\bin\Debug\Training Csharp.pdb
+C:\Users\hp\source\repos\Training Csharp\Training Csharp\obj\Debug\Training Csharp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Training Csharp\Training Csharp\obj\Debug\Training Csharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Training Csharp\Training Csharp\obj\Debug\Training Csharp.exe
+C:\Users\hp\source\repos\Training Csharp\Training Csharp\obj\Debug\Training Csharp.pdb
