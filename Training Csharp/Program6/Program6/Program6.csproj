@@ -63,6 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="APICall.cs" />
     <Compile Include="Http_Request.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

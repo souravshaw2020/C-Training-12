@@ -6,6 +6,7 @@ using System.Net;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Program6;
 
 namespace Program6
 {
@@ -21,8 +22,9 @@ namespace Program6
         {
             Console.Write("Enter Search Key : ");
             string searchKey = Console.ReadLine();
-            string apiKey = "AIzaSyAvnDz6Iuft2PayVYzMgE5n83_F9LtMCwQ";
-            string cx = "9776191ffb9f0c934";
+            Program6.APICall call = new APICall();
+            string apiKey = call.Key;
+            string cx = call.Credential;
             WebRequest req = WebRequest.Create("https://www.googleapis.com/customsearch/v1?key=" + apiKey + "&cx=" + cx + "&q=" + searchKey);
             HttpWebResponse res = (HttpWebResponse)req.GetResponse();
             Stream dataStream = res.GetResponseStream();
